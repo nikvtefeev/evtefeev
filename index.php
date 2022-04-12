@@ -5,6 +5,7 @@
   <title>evtefeev.tk</title>
 </head>
 <body>
+  <?php include header.php;?>
   <center>
     <h1>
       Welcome!
